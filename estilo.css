@@ -80,14 +80,14 @@ h3{
   
   @media(max-width: 576px) {
     body{
-        font-size: 20px;
+        font-size: 14px;
     }
   
  p{
     font-size: 20px;
  }
   .pie{
-    width: 70em;
+    width: 60em;
    }
   
   }
