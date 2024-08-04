@@ -102,9 +102,13 @@ h3{
    }
    .white{
     width: 50em;
-    height: 80em;
-    margin-left: 0em;
+    height: 120em;
+    margin-left: 2em;
 
+   }
+   h1{
+    font-size: 50px;
+    margin-top: 2em;
    }
    #inspectora{
     margin-left: 0em;
