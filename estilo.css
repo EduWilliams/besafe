@@ -68,7 +68,10 @@ h3{
   
   }
   @media(max-width: 992px) {
-  
+    #inspectora{
+        width: 60em;
+        margin-left: 0em;
+       }
   }
   @media(max-width: 768px) {
   
