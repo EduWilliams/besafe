@@ -120,4 +120,7 @@ h3{
     width: 40em;
     height: 20em;
 }
+.contenedor{
+    float: left;
+}
   }
