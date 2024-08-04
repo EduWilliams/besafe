@@ -97,8 +97,9 @@ h3{
     width: 60em;
    }
    a{
-    margin-left: 0em;
-    float: left;
+    font-size: 50px;
+    margin-left: 3em;
+   display: inline;
    }
    .white{
     width: 50em;
