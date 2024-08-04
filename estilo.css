@@ -98,12 +98,16 @@ h3{
     float: left;
    }
    .white{
-    height: 100em;
-    margin-left: 2em;
+    width: 50em;
+    height: 80em;
+    margin-left: 0em;
 
    }
    #inspectora{
     margin-left: 0em;
+   }
+   .logo{
+    margin-left: 20em;
    }
   
   }
