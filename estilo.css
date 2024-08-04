@@ -80,14 +80,25 @@ h3{
   
   @media(max-width: 576px) {
     body{
-        font-size: 14px;
+        font-size: 20px;
     }
   
  p{
-    font-size: 20px;
+    font-size: 25px;
  }
   .pie{
     width: 60em;
+   }
+   a{
+    margin-left: 1em;
+    float: left;
+   }
+   .white{
+    height: 200em;
+
+   }
+   #inspectora{
+    margin-left: 0em;
    }
   
   }
