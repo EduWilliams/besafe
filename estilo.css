@@ -134,4 +134,9 @@ height: 30em;
 .contenedor{
     float: left;
 }
+#empresas{
+
+    margin-left: 2em;
+    padding: 1em;
+}
   }
