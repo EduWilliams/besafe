@@ -69,6 +69,10 @@ margin-left: 15em;
 width: 50em;
 height: 30em;
 }
+#tit{
+    margin-top: 1em;
+    color: rgb(35, 35, 99);
+}
 
 @media(max-width: 1200px) {
   
