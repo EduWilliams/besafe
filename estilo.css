@@ -164,9 +164,7 @@ height: 30em;
    #inspectora{
     margin-left: 0em;
    }
-   .logo{
-    margin-left: 20em;
-   }
+   
    .atencion{
     width: 40em;
     height: 20em;
@@ -177,5 +175,13 @@ height: 30em;
 #empresas{
 
     margin-left: 2em;
+}
+#c{
+
+    font-size: 10px;
+}
+#c{
+
+    font-size: 10px;
 }
   }
