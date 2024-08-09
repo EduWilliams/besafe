@@ -7,11 +7,18 @@ body{
 
 
 .logo{
-    margin-left: 30em;
+   
    margin-top: 1em;
-    width: 20em;
-    height: 7em;
+    width: 31em;
+    height: 15em;
     box-shadow: 3px;
+}
+.elementos{
+    margin-top: 1em;
+    width: 53.5em;
+    height: 15em;
+    margin-left: -1em;
+
 }
 .contenedor{
 margin-top: 3em;
@@ -56,7 +63,7 @@ h1{
 .pie{
 
     background-color: rgb(59, 59, 92);
-    width: 100%;
+    width: 84em;
     height: 10em;
 }
 h3{
@@ -72,6 +79,34 @@ height: 30em;
 #tit{
     margin-top: 1em;
     color: rgb(35, 35, 99);
+}
+#c{
+
+    color: aliceblue;
+    margin-top: 3em;
+    margin-left: 5em;
+   
+}
+#co{
+
+    margin-top: 6em;
+    margin-left: -11em;
+    color: aliceblue;
+}
+#c:hover{
+
+    color: rgb(153, 149, 149);
+}
+#co:hover{
+
+    color: rgb(153, 149, 149);
+}
+#Titulo{
+    color: aliceblue;
+}
+#esp{
+
+    margin-top: 0.1em;
 }
 
 @media(max-width: 1200px) {
@@ -93,6 +128,11 @@ height: 30em;
         width: 60em;
         margin-left: 0em;
        }
+  }
+  #b{
+    color: aliceblue;
+    margin-top: -10em;
+    margin-left: 30em;
   }
   
   @media(max-width: 576px) {
