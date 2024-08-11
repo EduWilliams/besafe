@@ -271,6 +271,8 @@ textarea{
     margin-top: 2em;
    }
    #inspectora{
+    width: 90em;
+    height: 60em;
     margin-left: 0em;
     margin-top: -10em;
    }
@@ -297,16 +299,17 @@ textarea{
 }
 .logo{
 
-    width: 25em;
+    width: 30em;
     height: 15em;
 }
 .elementos{
-    width: 35em;
+    width: 40em;
     height: 15em;
-    margin-left: 25em;
-    margin-top: -16em;
+    margin-left: 30em;
+    margin-top: -17em;
 }
 .form{
+    width: 90em;
     margin-left: 0em;
     height: 100em;
 }
@@ -335,7 +338,7 @@ label{
 }
 #barra{
     margin-left: 1em;
-    width: 15em;
+    width: 12em;
     text-decoration: none;
    color: white;
     border-style: solid;
