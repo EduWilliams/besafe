@@ -258,10 +258,10 @@ textarea{
 }
 .form{
     margin-left: 0em;
-    height: 80em;
+    height: 90em;
 }
 #cuadro{
-    width: 25em;
+    width: 20em;
     border: 0px;
 }
 textarea{
@@ -269,8 +269,8 @@ textarea{
 
     width: 20em;
     height: 10em;
-    margin-left: 0em;
-    margin-top: 5em;
+    margin-left: 5em;
+    margin-top: 10em;
 }
 label{
     margin-left: 0em;
