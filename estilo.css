@@ -169,12 +169,12 @@ textarea{
   }
   @media(max-width: 992px) {
     #inspectora{
-        width: 60em;
+        width: 90em;
         margin-left: 0em;
        }
        .elementos{
-        width: 16em;
-        height: 8em;
+        width: 60em;
+        height: 20em;
     }
 
   }
@@ -256,4 +256,11 @@ textarea{
     margin-left: 25em;
     margin-top: -16em;
 }
+.form{
+    margin-left: 0em;
+}
+#cuadro{
+    width: 45em;
+}
+
   }
