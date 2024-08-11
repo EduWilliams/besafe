@@ -234,7 +234,7 @@ textarea{
 }
 #empresas{
 
-    margin-left: 2em;
+    margin-left: 5em;
 }
 #c{
 
@@ -274,6 +274,8 @@ textarea{
 label{
     margin-left: 0em;
 }
-
+#enviar{
+    margin-left: 2em;
+}
 
   }
