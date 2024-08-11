@@ -301,11 +301,11 @@ textarea{
     margin-top: 0em;
 
     width: 35em;
-    height: 15em;
+    height: 20em;
 }
 .elementos{
     width: 45em;
-    height: 15em;
+    height: 20em;
     margin-left: 35em;
     margin-top: -17em;
 }
@@ -354,13 +354,16 @@ label{
     }
     h1{
 
-        width: 15em;
+       margin-top:10em ;
     }
     #contactanos{
-        margin-left: 15em;
+        margin-left: 10em;
     }
 #co{
 
     font-size: 10px;
+}
+h3{
+    width: 15em;
 }
   }
