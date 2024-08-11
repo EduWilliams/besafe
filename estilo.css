@@ -222,6 +222,9 @@ textarea{
         width: 60em;
         height: 20em;
     }
+    .slider{
+        width: 90em;
+    }
 
   }
   @media(max-width: 768px) {
@@ -328,6 +331,9 @@ label{
     width: 15em;
    height: 2.5em;
    margin-top: -1em;
+}
+.slider{
+    width: 90em;
 }
 
   }
