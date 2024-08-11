@@ -279,7 +279,7 @@ textarea{
     width: 20em;
     height: 10em;
     margin-left: 5em;
-    margin-top: 10em;
+    margin-top: 2em;
 }
 label{
     margin-left: 0em;
@@ -288,6 +288,7 @@ label{
     margin-left: 2em;
 }
 #input{
+    width: 15em;
    height: 2.5em;
    margin-top: -1em;
 }
