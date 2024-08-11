@@ -298,6 +298,7 @@ textarea{
 
 }
 .logo{
+    margin-top: 0em;
 
     width: 35em;
     height: 15em;
@@ -317,7 +318,7 @@ textarea{
 textarea{
 
 
-    width: 20em;
+    width: 30em;
     height: 10em;
     margin-left: 5em;
     margin-top: 2em;
@@ -326,10 +327,10 @@ label{
     margin-left: 0em;
 }
 #enviar{
-    margin-left: 2em;
+    margin-left: 10em;
 }
 #input{
-    width: 15em;
+    width: 25em;
    height: 2.5em;
    margin-top: -1em;
 }
@@ -337,20 +338,26 @@ label{
     width: 80em;
 }
 #barra{
+    margin-top: -5em;
     margin-left: 1em;
     width: 12em;
     text-decoration: none;
-   color: white;
+   
     border-style: solid;
-    color: white;
+    color: rgb(20, 7, 7);
 
 }
 .contenedor{
-    margin-top: 20em;
-    
-    margin-left: 1em;
+     margin-left: 1em;
     color: rgb(245, 245, 248);
     
+    }
+    h1{
+
+        width: 15em;
+    }
+    #contactanos{
+        margin-left: 15em;
     }
 
   }
