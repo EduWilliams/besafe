@@ -296,23 +296,20 @@ textarea{
 }
 .logo{
 
-    width: 25em;
+    width: 20em;
     height: 15em;
 }
 .elementos{
-    width: 35em;
+    width: 30em;
     height: 15em;
-    margin-left: 25em;
+    margin-left: 20em;
     margin-top: -16em;
 }
 .form{
     margin-left: 0em;
     height: 90em;
 }
-#cuadro{
-    width: 15em;
-   
-}
+
 textarea{
 
 
@@ -333,7 +330,21 @@ label{
    margin-top: -1em;
 }
 .slider{
-    width: 90em;
+    width: 60em;
 }
+#barra{
+    text-decoration: none;
+   color: white;
+    border-style: solid;
+    color: white;
+
+}
+.contenedor{
+    margin-top: 1em;
+    
+    margin-left: 1em;
+    color: rgb(245, 245, 248);
+    
+    }
 
   }
