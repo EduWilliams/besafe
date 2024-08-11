@@ -262,5 +262,10 @@ textarea{
 #cuadro{
     width: 45em;
 }
+textarea{
+
+    width: 20em;
+    height: 10em;
+}
 
   }
