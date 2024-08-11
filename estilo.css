@@ -60,6 +60,11 @@ p{
 h1{
     color: rgb(35, 35, 99);
 }
+#t{
+
+    width: 10em;
+    height: 5em;
+}
 .pie{
 
     background-color: rgb(59, 59, 92);
@@ -93,6 +98,38 @@ margin-left: 30em;
     
     color: aliceblue;
 }
+.slider{
+
+    width: 100%;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+}
+.slider .slide-track{
+    display: flex;
+    animation: scroll 40s linear infinite;
+    -webkit-animation: scroll 40s linear infinite;
+    width: calc(200px * 38);
+}
+.slider .slide{
+
+    width: 200px;
+}
+.slider .slide img{
+
+    width: 100%;
+}
+@keyframes scroll{
+    0%{
+       -webkit-transform:translateX(0) ;
+       transform:translateX(0) ;
+    }
+    100%{
+        -webkit-transform:translateX(calc(-200px * 19));
+        transform:translateX(calc(-200px * 19));
+    }
+}
+
 #c:hover{
 
     color: rgb(153, 149, 149);
