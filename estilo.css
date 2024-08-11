@@ -261,11 +261,19 @@ textarea{
 }
 #cuadro{
     width: 45em;
+    border: 0px;
 }
 textarea{
 
+
     width: 20em;
     height: 10em;
+    margin-left: 0em;
+    margin-top: 50em;
 }
+label{
+    margin-left: 0em;
+}
+
 
   }
