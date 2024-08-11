@@ -240,21 +240,20 @@ textarea{
 
     font-size: 10px;
 }
-#c{
 
-    font-size: 10px;
-}
 #esp{
     font-size: 10px;
 
 }
 .logo{
 
-    width: 16em;
-    height: 8em;
+    width: 30em;
+    height: 15em;
 }
 .elementos{
-
-    height: 8em;
+    width: 40em;
+    height: 15em;
+    margin-left: 30em;
+    margin-top: -15em;
 }
   }
