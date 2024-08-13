@@ -307,7 +307,7 @@ textarea{
     width: 45em;
     height: 20em;
     margin-left: 35em;
-    margin-top: -18em;
+    margin-top: -20em;
 }
 .form{
     width: 80em;
@@ -361,6 +361,8 @@ label{
     font-size: 10px;
 }
 h3{
-    width: 15em;
+    font-size: 50px;
+    width: 20em;
+    padding: 3em;
 }
   }
