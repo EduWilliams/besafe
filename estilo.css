@@ -358,11 +358,22 @@ label{
     }
 #co{
 
-    font-size: 10px;
+    font-size: 16px;
 }
+#c{
+
+    font-size: 16px;
+}
+
 h3{
     font-size: 50px;
     width: 20em;
     padding: 3em;
 }
+h2{
+    width: 20em;
+    font-size: 20px;
+    margin-top: -5em;
+}
+
   }
