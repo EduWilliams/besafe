@@ -72,14 +72,28 @@ h1{
     height: 15em;
 }
 h3{
-    margin-left: 18em;
+    padding: 2em;
+    margin-left: 13em;
 
 }
 #empresas{
 margin-top: 2em;
-margin-left: 15em;
-width: 50em;
+margin-left: 10em;
+width: 65em;
 height: 30em;
+}
+.blanco{
+
+    background-color: white;
+    width: 70em;
+    height: 70em;
+    margin-left: 6em;
+    margin-top: 3em;
+}
+.servicios{
+    margin-top: 3em;
+
+    margin-left: 10em;
 }
 #tit{
     margin-top: 1em;
@@ -307,7 +321,7 @@ textarea{
     width: 45em;
     height: 20em;
     margin-left: 35em;
-    margin-top: -20em;
+    margin-top: -21em;
 }
 .form{
     width: 80em;
@@ -358,7 +372,7 @@ label{
     }
 #co{
 
-    font-size: 16px;
+    font-size: 20px;
 }
 #c{
 
@@ -369,6 +383,7 @@ h3{
     font-size: 50px;
     width: 20em;
     padding: 3em;
+    margin-left: 10em;
 }
 h2{
     width: 20em;
