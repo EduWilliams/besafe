@@ -129,9 +129,10 @@ height: 30em;
     margin-top: -30em;
 }
 .servicios{
-    margin-top: 15em;
-
-    margin-left: 10em;
+    margin-top: 10em;
+color: white;
+    margin-left: 6em;
+    
 }
 #tit{
     margin-top: 1em;
@@ -262,6 +263,12 @@ textarea{
     width: 20em;
     border-radius: 5px;
 }
+#servicios{
+    width: 83.7em;
+}
+.blanco{
+margin-top: -50em;
+}
 @media(max-width: 1200px) {
   
   }
@@ -346,8 +353,11 @@ textarea{
 }
 
 #esp{
-    font-size: 10px;
+    font-size: 30px;
 
+}
+#esp1{
+    width: 20em;
 }
 .logo{
     margin-top: 0em;
@@ -392,12 +402,16 @@ label{
 #barra{
     margin-top: -5em;
     margin-left: 1em;
-    width: 12em;
+    width: 20em;
     text-decoration: none;
    
-    border-style: solid;
-    color: rgb(20, 7, 7);
+  color: aliceblue;
+    font-size: 50px;
+}
 
+#barra2{
+    width: 20em;
+    font-size: 50px;
 }
 .contenedor{
      margin-left: 1em;
@@ -410,23 +424,24 @@ label{
     }
 #co{
 
-    font-size: 20px;
+    font-size: 40px;
 }
 #c{
 
-    font-size: 16px;
+    font-size: 40px;
 }
 
 h3{
+    margin-top: 3em;
     font-size: 50px;
     width: 20em;
     padding: 3em;
-    margin-left: 10em;
+    margin-left: 7em;
 }
 h2{
     width: 20em;
-    font-size: 20px;
-    margin-top: -5em;
+    font-size: 40px;
+    margin-top: -10em;
 }
 
   }
