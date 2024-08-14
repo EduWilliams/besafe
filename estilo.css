@@ -27,10 +27,48 @@ margin-left: 6em;
 color: blue;
 
 }
-#barra{
+.subir{
+
+    margin-top: -50em;
+    margin-left: 40em;
+}
+#barra2{
+   
     text-decoration: none;
-   float: left;
-    margin-left: 10em;
+   color: aliceblue;
+    margin-left: 13em;
+    font-size: 20px;
+   
+    
+}
+
+#barra1{
+    color: aliceblue;
+    font-size: 20px;
+}
+#barra{
+    margin-top: -2em;
+    text-decoration: none;
+   margin-top: -15em;
+    margin-left: 13em;
+     color: aliceblue;
+     font-size: 20px;
+}
+#barra:hover {color: rgb(206, 201, 201);
+
+
+
+}
+#barra1:hover{color: rgb(206, 201, 201)
+
+}
+
+#barra2:hover{
+    color: rgb(206, 201, 201)
+}
+#sobre{
+
+    margin-top: 15em;
 }
 #inspectora{
     border-radius: 10px;
@@ -45,7 +83,7 @@ color: blue;
     background-color: white;
     margin-left: 10em;
     width: 62em;
-    height: 73em;
+    height: 110em;
     text-align: center;
     padding: 3em;
 }
@@ -91,7 +129,7 @@ height: 30em;
     margin-top: 3em;
 }
 .servicios{
-    margin-top: 3em;
+    margin-top: 15em;
 
     margin-left: 10em;
 }
