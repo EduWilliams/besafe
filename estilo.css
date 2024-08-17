@@ -385,9 +385,10 @@ text-align: center;
    }
    #titulo{
     font-size: 50px;
+
    }
    #sobre{
-    margin-top: 6em;
+    margin-top: 8em;
    }
    #inspectora{
     width: 80em;
@@ -464,7 +465,7 @@ label{
 #barra{
     margin-top: -5em;
     margin-left: 5em;
-    width: 20em;
+    width: 10em;
     text-decoration: none;
    
   color: aliceblue;
@@ -472,7 +473,7 @@ label{
 }
 
 #barra2{
-    width: 15em;
+    width: 10em;
     font-size: 50px;
     margin-left: 5em;
     margin-top: -5em;
@@ -512,7 +513,7 @@ h2{
 }
 .tiserv{
 
-    margin-top: 3em;
+    margin-top: 1.5em;
 }
 li{
     font-size: 40px;
@@ -520,6 +521,9 @@ li{
 #servicios{
 
     width: 80em;
+}
+#Titulo{
+    margin-top: 3em;
 }
 
   }
