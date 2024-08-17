@@ -38,6 +38,8 @@ color: blue;
    color: aliceblue;
     margin-left: 13em;
     font-size: 20px;
+    padding: 0em;
+    
    
     
 }
@@ -49,10 +51,11 @@ color: blue;
 #barra{
     margin-top: -2em;
     text-decoration: none;
-   margin-top: -15em;
-    margin-left: 13em;
+   margin-top: -14em;
+    margin-left: 46em;
      color: aliceblue;
      font-size: 20px;
+    
 }
 #barra:hover {color: rgb(206, 201, 201);
 
@@ -317,6 +320,7 @@ text-align: center;
 #Titulo{
     margin-top: 5em;
 }
+
 
 @media(max-width: 1200px) {
   
