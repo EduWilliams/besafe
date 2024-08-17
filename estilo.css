@@ -403,7 +403,7 @@ margin-top: 0em;
    }
    .white{
     width: 60em;
-    height: 140em;
+    height: 170em;
     margin-left: 10em;
 
    }
@@ -415,11 +415,7 @@ margin-top: 0em;
     font-size: 50px;
 
    }
-   .caja{
-    width: 20em;
-    height: 20em;
-    background-color: red;
-   }
+ 
  
    #inspectora{
     width: 80em;
@@ -469,7 +465,7 @@ margin-top: 0em;
 .form{
     width: 80em;
     margin-left: 0em;
-    height: 100em;
+    height: 150em;
 }
 #email{
     margin-left: 5em;
@@ -488,7 +484,7 @@ label{
     padding: 1em;
 }
 #enviar{
-    margin-left: 10em;
+    margin-left: 8em;
 }
 #input{
     width: 25em;
@@ -597,7 +593,7 @@ margin-top: 0em;
 
     font-size: 50px;
     margin-left: 3em;
-    margin-top: 0em;
+    margin-top: -2em;
 }
 
 
