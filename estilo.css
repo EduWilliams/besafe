@@ -347,6 +347,9 @@ nav{
     color: aliceblue;
    font-size: 20px;
 }
+#ontactanos2{
+   justify-content: center;
+}
 @media(max-width: 1200px) {
   
   }
@@ -413,7 +416,7 @@ nav{
 
    }
    #sobre{
-    margin-top: 8em;
+    margin-top: 16em;
    }
    #inspectora{
     width: 80em;
@@ -501,8 +504,8 @@ label{
 #barra2{
     width: 25em;
     font-size: 50px;
-    margin-left: 0em;
-    margin-top: -5em;
+    margin-left: 5em;
+    margin-top: -10em;
 }
 .contenedor{
      margin-left: 1em;
@@ -523,7 +526,7 @@ margin-left: 10em;
 }
 
 h3{
-    margin-top: 2em;
+    margin-top: 7em;
     font-size: 50px;
     width: 20em;
     padding: 3em;
@@ -581,10 +584,11 @@ nav{
 
     width: 80em;
     height: 5em;
+    background-color: black;
 }
 .menu{
 
-    font-size: 40px;
+    font-size: 45px;
 }
 
   }
