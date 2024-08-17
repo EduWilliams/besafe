@@ -317,6 +317,12 @@ text-align: center;
     margin-left: 6em;
     margin-right: 6em;
 }
+li{
+    
+    margin-left: 3em;
+    margin-right: 3em;
+    list-style: none;
+}
 #Titulo{
     margin-top: 5em;
 }
@@ -519,7 +525,7 @@ h2{
     font-size: 50px;
 }
 .tiserv{
-
+    font-size: 50px;
     margin-top: 1em;
 }
 li{
@@ -540,5 +546,8 @@ li{
 
     display: block;
 }
+.verde{
 
+    height: 10em;
+}
   }
