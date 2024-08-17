@@ -468,6 +468,9 @@ margin-top: 0em;
     margin-left: 0em;
     height: 100em;
 }
+#email{
+    margin-left: 5em;
+}
 
 textarea{
 
@@ -479,6 +482,7 @@ textarea{
 }
 label{
     margin-left: 0em;
+    padding: 1em;
 }
 #enviar{
     margin-left: 10em;
