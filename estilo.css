@@ -83,7 +83,7 @@ color: blue;
     background-color: white;
     margin-left: 10em;
     width: 62em;
-    height: 110em;
+    height: 70em;
     text-align: center;
     padding: 3em;
 }
@@ -572,6 +572,7 @@ li{
 .verde{
 
     height: 10em;
+    justify-content: center;
 }
 .blanco{
 
