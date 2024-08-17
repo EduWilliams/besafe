@@ -333,7 +333,20 @@ li{
     margin-left: 31em;
     display: none;
 }
+nav{
 
+    width: 83.75em;
+    height: 2em;
+    display: flex;
+    background-color: black;
+}
+.menu{
+
+    margin-left: 13em;
+    text-decoration: none;
+    color: aliceblue;
+   font-size: 20px;
+}
 @media(max-width: 1200px) {
   
   }
@@ -552,7 +565,7 @@ li{
 }
 .blanco{
 
-    height: 200px;
+    height: 400px;
 }
 .subir{
     width: 80em;
