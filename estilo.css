@@ -481,7 +481,9 @@ textarea{
 }
 label{
     margin-left: 0em;
+    
     padding: 1em;
+    margin-top: -1em;
 }
 #enviar{
     margin-left: 8em;
