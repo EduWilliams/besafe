@@ -349,7 +349,7 @@ text-align: center;
  }
   .pie{
     width: 80em;
-    height: 30em;
+    height: 50em;
    }
    a{
     font-size: 50px;
@@ -370,7 +370,7 @@ text-align: center;
     font-size: 50px;
    }
    #sobre{
-    margin-top: -1em;
+    margin-top: 3em;
    }
    #inspectora{
     width: 80em;
@@ -398,6 +398,10 @@ text-align: center;
 }
 #esp1{
     width: 20em;
+    margin-left: 0em;
+}
+#esp2{
+
     margin-left: 0em;
 }
 .logo{
@@ -442,7 +446,7 @@ label{
 }
 #barra{
     margin-top: -5em;
-    margin-left: 1em;
+    margin-left: 5em;
     width: 20em;
     text-decoration: none;
    
@@ -453,7 +457,8 @@ label{
 #barra2{
     width: 20em;
     font-size: 50px;
-    margin-left: 0em;
+    margin-left: 5em;
+    margin-top: -5em;
 }
 .contenedor{
      margin-left: 1em;
@@ -465,7 +470,7 @@ label{
         margin-left: 10em;
     }
 #co{
-margin-left: 0em;
+margin-left: 10em;
     font-size: 50px;
 }
 #c{
@@ -474,7 +479,7 @@ margin-left: 0em;
 }
 
 h3{
-    margin-top: em;
+    margin-top: 2em;
     font-size: 50px;
     width: 20em;
     padding: 3em;
@@ -488,6 +493,16 @@ h2{
 #esp2{
     font-size: 50px;
 }
+.tiserv{
 
+    margin-top: 6em;
+}
+li{
+    font-size: 40px;
+}
+#servicios{
+
+    width: 80em;
+}
 
   }
