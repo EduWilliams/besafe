@@ -490,7 +490,7 @@ label{
 }
 #barra{
     margin-top: -5em;
-    margin-left: 5em;
+   margin-left: -10em;
     width: 10em;
     text-decoration: none;
    
@@ -501,7 +501,7 @@ label{
 #barra2{
     width: 25em;
     font-size: 50px;
-    margin-left: 5em;
+    margin-left: 0em;
     margin-top: -5em;
 }
 .contenedor{
@@ -571,7 +571,8 @@ li{
     width: 80em;
     display: flex;
     background-color: black;
-    margin-top: 0em;
+    margin-top: -50em;
+    margin-left: 0em;
 
 
 
