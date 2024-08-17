@@ -75,7 +75,7 @@ color: blue;
 }
 #inspectora{
     border-radius: 10px;
-    margin-top: 3em;
+    margin-top: 16em;
     width: 70em;
     margin-left: 6em;
 }
@@ -321,6 +321,12 @@ text-align: center;
     margin-top: 5em;
 }
 
+#icono{
+
+    margin-top: -6em;
+    margin-left: 31em;
+    display: none;
+}
 
 @media(max-width: 1200px) {
   
@@ -520,13 +526,19 @@ li{
     font-size: 50px;
     margin-left: 3em;
     margin-right: 3em;
+    list-style: none;
 }
 #servicios{
 
     width: 80em;
+
 }
 #Titulo{
     margin-top: 5em;
+}
+#icono{
+
+    display: block;
 }
 
   }
