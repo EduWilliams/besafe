@@ -577,4 +577,14 @@ li{
 
 
 }
+nav{
+
+    width: 80em;
+    height: 5em;
+}
+.menu{
+
+    font-size: 40px;
+}
+
   }
