@@ -415,9 +415,12 @@ margin-top: 0em;
     font-size: 50px;
 
    }
-   #sobre{
-    margin-top: 16em;
+   .caja{
+    width: 20em;
+    height: 20em;
+    background-color: red;
    }
+ 
    #inspectora{
     width: 80em;
     height: 60em;
@@ -490,7 +493,7 @@ label{
 #input{
     width: 25em;
    height: 2.5em;
-   margin-top: -1em;
+   margin-top: -2em;
 }
 .slider{
     width: 80em;
