@@ -525,7 +525,7 @@ h2{
     font-size: 50px;
 }
 .tiserv{
-    font-size: 50px;
+    font-size: 60px;
     margin-top: 1em;
 }
 li{
@@ -549,5 +549,18 @@ li{
 .verde{
 
     height: 10em;
+}
+.blanco{
+
+    height: 200px;
+}
+.subir{
+    width: 80em;
+    display: flex;
+    background-color: black;
+    margin-top: 0em;
+
+
+
 }
   }
