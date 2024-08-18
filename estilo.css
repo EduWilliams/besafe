@@ -439,13 +439,14 @@ margin-top: 0em;
     }
     textarea{
         width: 20em;
-        margin-left: 6em;
+        margin-left: 5em;
         height: 10em;
     }
     #enviar{
 
-
+        width: 12em;
         margin-left: 4em;
+        border-radius: 20px;
     }
     .pie{
         width: 88em;
@@ -561,7 +562,7 @@ width: 73em;
 .form{
     width: 80em;
     margin-left: 0em;
-    height: 150em;
+    height: 145em;
 }
 #email{
     margin-left: 5em;
@@ -584,7 +585,8 @@ label{
     margin-top: -1em;
 }
 #enviar{
-    margin-left: 8em;
+    margin-left: 12em;
+
 }
 #input{
     width: 20em;
