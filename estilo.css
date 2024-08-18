@@ -405,7 +405,7 @@ margin-top: 0em;
     #tit{
         width: 20em;
         font-size: 40px;
-        margin-left: 2em;
+        margin-left: 5em;
     }
     #empresas{
         width: 70em;
@@ -434,9 +434,11 @@ margin-top: 0em;
     }
     .pie{
         width: 88em;
+        margin-top: 10em;
     }
     .blanco{
-height: 400em;
+height: 500em;
+width: 70em;
         
     }
     .form{
