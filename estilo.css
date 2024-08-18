@@ -370,6 +370,9 @@ margin-top: 0em;
         margin-top: -21.5em;
         margin-left: 30em;
     }
+    #servicios{
+        width: 90em;
+    }
     .slider{
         width: 90em;
     }
@@ -379,11 +382,12 @@ margin-top: 0em;
     }
     .menu{
 
-        font-size: 30px;
-        margin-left: 8em;
+        font-size: 35px;
+        margin-left: 7em;
     }
     .white{
-        width: 130em;
+        width: 70em;
+        height: 100em;
     }
     #sobre{
 
@@ -417,9 +421,14 @@ margin-top: 0em;
         margin-left: 5em;
     }
     textarea{
-        width: 30em;
+        width: 20em;
         margin-left: 5em;
-        height: 20em;
+        height: 10em;
+    }
+    #enviar{
+
+
+        margin-left: 5em;
     }
     .pie{
         width: 90em;
