@@ -463,6 +463,20 @@ width: 73em;
         margin-left: 8em;
     }
 
+    #c{
+        font-size: 60px;
+        margin-left: 30em;
+    }
+    #co{
+        font-size: 60px;
+        margin-left: 30em;
+    }
+    #Titulo{
+        font-size: 60px;
+        margin-top: 5em;
+    }
+    
+   
   }
   @media(max-width: 768px) {
   
