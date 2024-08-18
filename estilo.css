@@ -445,12 +445,12 @@ margin-top: 0em;
     #enviar{
 
         width: 12em;
-        margin-left: 7em;
+        margin-left: 8em;
         border-radius: 20px;
     }
     .pie{
         width: 88em;
-       height: 50em;
+       height: 47em;
     }
     .blanco{
 height: 486em;
@@ -459,7 +459,7 @@ width: 73em;
     }
     .form{
         width: 70em;
-        height: 150em;
+        height: 145em;
         margin-left: 8em;
     }
 
@@ -472,7 +472,7 @@ width: 73em;
 
         padding: 2em;
         font-size: 55px;
-        margin-left: 2em;
+        margin-left: 3em;
         margin: 1em;
     }
     #Titulo{
@@ -481,15 +481,16 @@ width: 73em;
     }
     #esp1{
 
-        margin-left: 4em;
+        margin-left: 2em;
     }
     #esp{
-        margin-left: 4em;
+        margin-left: 2em;
 
     }
     #esp2{
 
         font-size: 60px;
+        margin-left: 2em;
     }
     
    
@@ -654,12 +655,12 @@ label{
         margin-left: 10em;
     }
 #co{
-    width: 20em;
+    width: 15em;
 margin-left: 8em;
     font-size: 50px;
 }
 #c{
-    width: 20em;
+    width: 15em;
     margin-left: 10em;
     font-size: 50px;
 }
