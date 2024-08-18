@@ -387,7 +387,7 @@ margin-top: 0em;
     }
     .white{
         width: 70em;
-        height: 160em;
+        height: 163em;
     }
     h1{
         margin-top: 2em;
@@ -417,31 +417,31 @@ margin-top: 0em;
     }
     #empresas{
         width: 70em;
-        margin-left: 6em;
+        margin-left: 7em;
     }
     label{
 
         font-size: 30px;
-        margin-left: 0em;
+        margin-left: 5em;
     }
     input{
 
         width: 40em;
         height: 2.5em;
-        margin-left: 2em;
+        margin-left: 0em;
     }
     #email{
-        margin-left: 2em;
+        margin-left: 1em;
     }
     textarea{
         width: 20em;
-        margin-left: 3em;
+        margin-left: 2em;
         height: 10em;
     }
     #enviar{
 
 
-        margin-left: 5em;
+        margin-left: 4em;
     }
     .pie{
         width: 88em;
@@ -449,7 +449,7 @@ margin-top: 0em;
     }
     .blanco{
 height: 476em;
-width: 75em;
+width: 73em;
         
     }
     .form{
