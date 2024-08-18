@@ -383,7 +383,7 @@ margin-top: 0em;
         margin-left: 8em;
     }
     .white{
-        width: 70em;
+        width: 100em;
     }
     #sobre{
 
@@ -398,6 +398,9 @@ margin-top: 0em;
     .tiserv{
         font-size: 40px;
     }
+    #tit{
+        font-size: 40px;
+    }
     #empresas{
         width: 70em;
     }
@@ -410,8 +413,13 @@ margin-top: 0em;
         width: 40em;
         height: 2.5em;
     }
+    #email{
+        margin-left: 5em;
+    }
     textarea{
-        width: 40em;
+        width: 30em;
+        margin-left: 5em;
+        height: 20em;
     }
     .pie{
         width: 90em;
