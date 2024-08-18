@@ -359,6 +359,7 @@ margin-top: 0em;
         margin-left: 0em;
        }
        .logo{
+        margin-top: 0em;
         width: 30em;
         height: 20em;
        }
@@ -366,7 +367,7 @@ margin-top: 0em;
        .elementos{
         width: 60em;
         height: 20em;
-        margin-top: -20em;
+        margin-top: -23em;
         margin-left: 30em;
     }
     .slider{
@@ -374,11 +375,11 @@ margin-top: 0em;
     }
     nav{
         width: 90em;
-        height: 5em;
+        height: 4em;
     }
     .menu{
 
-        font-size: 50px;
+        font-size: 30px;
     }
 
   }
