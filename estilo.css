@@ -358,14 +358,27 @@ margin-top: 0em;
         width: 90em;
         margin-left: 0em;
        }
+       .logo{
+        width: 30em;
+        height: 20em;
+       }
+   
        .elementos{
         width: 60em;
         height: 20em;
         margin-top: -20em;
-        margin-left: 60em;
+        margin-left: 30em;
     }
     .slider{
         width: 90em;
+    }
+    nav{
+        width: 90em;
+        height: 5em;
+    }
+    .menu{
+
+        font-size: 50px;
     }
 
   }
@@ -396,7 +409,7 @@ margin-top: 0em;
  }
   .pie{
     width: 80em;
-    height: 50em;
+    height: 40em;
    }
    a{
     font-size: 50px;
@@ -578,7 +591,7 @@ li{
 }
 .blanco{
 
-   height: 600em;
+   height: 580em;
 }
 .subir{
     width: 80em;
@@ -605,11 +618,5 @@ margin-top: 0em;
 
 
 
-#bajar{
-    margin-top: 400px;
-}
-#contactanos2{
 
-    margin-top: 400px;
-}
   }
