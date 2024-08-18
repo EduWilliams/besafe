@@ -242,6 +242,9 @@ label{
 }
 #input{
     width: 20em;
+    border-radius: 20px;
+    border-color: black;
+    border: 1px 1px;
 }
 textarea{
 
@@ -417,7 +420,7 @@ margin-top: 0em;
     }
     #empresas{
         width: 70em;
-        margin-left: 7em;
+        margin-left: 8em;
     }
     label{
 
@@ -588,9 +591,8 @@ label{
     width: 20em;
    height: 2.5em;
    margin-top: -2em;
-   border-radius: 10px;
-   border-color: black;
-   border: 1px 1px;
+  
+   margin-left: 4em;
 }
 .slider{
     width: 80em;
