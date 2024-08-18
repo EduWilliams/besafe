@@ -355,7 +355,7 @@ margin-top: 0em;
   }
   @media(max-width: 992px) {
     #inspectora{
-        width: 90em;
+        width: 88em;
         margin-left: 0em;
        }
        .logo{
@@ -365,33 +365,33 @@ margin-top: 0em;
        }
    
        .elementos{
-        width: 60em;
+        width: 58em;
         height: 20em;
         margin-top: -21.5em;
         margin-left: 30em;
     }
     #servicios{
-        width: 90em;
+        width: 88em;
     }
     .slider{
-        width: 90em;
+        width: 88em;
     }
     nav{
-        width: 90em;
+        width: 88em;
         height: 4em;
     }
     .menu{
 
         font-size: 35px;
-        margin-left: 7em;
+        margin-left: 5em;
     }
     .white{
         width: 70em;
-        height: 100em;
+        height: 150em;
     }
-    #sobre{
+    h1{
 
-        font-size: 40px;
+        font-size: 48px;
     }
     p{
         font-size: 40px;
@@ -403,6 +403,7 @@ margin-top: 0em;
         font-size: 40px;
     }
     #tit{
+        width: 50em;
         font-size: 40px;
     }
     #empresas{
@@ -431,7 +432,7 @@ margin-top: 0em;
         margin-left: 5em;
     }
     .pie{
-        width: 90em;
+        width: 88em;
     }
     .blanco{
 height: 400px;
