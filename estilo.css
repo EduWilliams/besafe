@@ -422,19 +422,20 @@ margin-top: 0em;
     label{
 
         font-size: 30px;
+        margin-left: 0em;
     }
     input{
 
         width: 40em;
         height: 2.5em;
-        margin-left: 2em;
+        margin-left: 3em;
     }
     #email{
-        margin-left: 5em;
+        margin-left: 3em;
     }
     textarea{
         width: 20em;
-        margin-left: 5em;
+        margin-left: 3em;
         height: 10em;
     }
     #enviar{
@@ -444,7 +445,7 @@ margin-top: 0em;
     }
     .pie{
         width: 88em;
-        margin-top: 10em;
+       
     }
     .blanco{
 height: 480em;
