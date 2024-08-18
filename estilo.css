@@ -413,10 +413,11 @@ margin-top: 0em;
     #tit{
         width: 20em;
         font-size: 40px;
-        margin-left: 5em;
+        margin-left: 7em;
     }
     #empresas{
         width: 70em;
+        margin-left: 4em;
     }
     label{
 
@@ -452,7 +453,7 @@ width: 75em;
     }
     .form{
         width: 70em;
-        height: 150;
+        height: 150em;
         margin-left: 8em;
     }
 
