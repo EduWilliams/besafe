@@ -570,6 +570,9 @@ textarea{
     height: 10em;
     margin-left: 5em;
     margin-top: 2em;
+    border-radius: 10px;
+    border-color: black;
+    border: 1px 1px;
 }
 label{
     font-size: 50px;
@@ -585,6 +588,9 @@ label{
     width: 20em;
    height: 2.5em;
    margin-top: -2em;
+   border-radius: 10px;
+   border-color: black;
+   border: 1px 1px;
 }
 .slider{
     width: 80em;
