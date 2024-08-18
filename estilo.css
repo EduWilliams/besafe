@@ -390,7 +390,7 @@ margin-top: 0em;
         height: 160em;
     }
     h1{
-
+        margin-top: 2em;
         font-size: 48px;
     }
     p{
@@ -413,7 +413,7 @@ margin-top: 0em;
     #tit{
         width: 20em;
         font-size: 40px;
-        margin-left: 7em;
+        margin-left: 9em;
     }
     #empresas{
         width: 70em;
@@ -571,6 +571,7 @@ textarea{
     margin-top: 2em;
 }
 label{
+    font-size: 30px;
     margin-left: 0em;
     
     padding: 1em;
@@ -580,7 +581,7 @@ label{
     margin-left: 8em;
 }
 #input{
-    width: 25em;
+    width: 20em;
    height: 2.5em;
    margin-top: -2em;
 }
