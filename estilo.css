@@ -654,10 +654,12 @@ label{
         margin-left: 10em;
     }
 #co{
+    width: 20em;
 margin-left: 8em;
     font-size: 50px;
 }
 #c{
+    width: 20em;
     margin-left: 10em;
     font-size: 50px;
 }
