@@ -521,7 +521,7 @@ width: 73em;
     font-size: 50px;
  }
   .pie{
-    width: 85em;
+    width: 80em;
     height: 40em;
    }
    a{
@@ -546,7 +546,7 @@ width: 73em;
  
  
    #inspectora{
-    width: 85em;
+    width: 80em;
     height: 60em;
     margin-left: 0em;
     margin-top: 0em;
@@ -585,13 +585,13 @@ width: 73em;
     height: 20em;
 }
 .elementos{
-    width: 50em;
+    width: 45em;
     height: 20em;
     margin-left: 35em;
     margin-top: -21.5em;
 }
 .form{
-    width: 85em;
+    width: 80em;
     margin-left: 0em;
     height: 145em;
 }
@@ -627,7 +627,7 @@ label{
    margin-left: 4em;
 }
 .slider{
-    width: 85em;
+    width: 80em;
 }
 #barra{
     margin-top: -5em;
@@ -694,7 +694,7 @@ li{
 }
 #servicios{
 
-    width: 85em;
+    width: 80em;
 
 }
 #Titulo{
@@ -714,7 +714,7 @@ li{
    height: 630em;
 }
 .subir{
-    width: 85em;
+    width: 80em;
     display: flex;
     background-color: black;
     margin-top: -50em;
@@ -725,7 +725,7 @@ li{
 }
 nav{
 margin-top: 0em;
-    width: 85em;
+    width: 80em;
     height: 4em;
     background-color: black;
 }
