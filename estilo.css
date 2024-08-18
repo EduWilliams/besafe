@@ -379,7 +379,36 @@ margin-top: 0em;
     }
     .menu{
 
+        font-size: 20px;
+        margin-left: 5em;
+    }
+    .white{
+        width: 70em;
+    }
+    #sobre{
+
         font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #empresas{
+        width: 70em;
+    }
+    label{
+
+        font-size: 30px;
+    }
+    input{
+
+        width: 40em;
+        height: 2.5em;
+    }
+    textarea{
+        width: 40em;
+    }
+    .pie{
+        width: 90em;
     }
 
   }
