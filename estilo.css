@@ -465,18 +465,31 @@ width: 73em;
 
     #c{
         padding: 2em;
-        font-size: 60px;
+        font-size: 55px;
         margin-left: 5em;
     }
     #co{
 
         padding: 2em;
-        font-size: 60px;
-        margin-left: 5em;
+        font-size: 55px;
+        margin-left: 2em;
+        margin: 1em;
     }
     #Titulo{
         font-size: 60px;
-        margin-top: 5em;
+        margin-top: 4em;
+    }
+    #esp1{
+
+        margin-left: 4em;
+    }
+    #esp{
+        margin-left: 4em;
+
+    }
+    #esp2{
+
+        font-size: 60px;
     }
     
    
