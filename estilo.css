@@ -431,11 +431,11 @@ margin-top: 0em;
         margin-left: 0em;
     }
     #email{
-        margin-left: 1em;
+        margin-left: 0em;
     }
     textarea{
         width: 20em;
-        margin-left: 2em;
+        margin-left: 6em;
         height: 10em;
     }
     #enviar{
@@ -669,7 +669,7 @@ li{
 }
 .blanco{
 
-   height: 580em;
+   height: 610em;
 }
 .subir{
     width: 80em;
