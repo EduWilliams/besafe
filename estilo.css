@@ -403,8 +403,9 @@ margin-top: 0em;
         font-size: 40px;
     }
     #tit{
-        width: 50em;
+        width: 30em;
         font-size: 40px;
+        margin-left: 5em;
     }
     #empresas{
         width: 70em;
