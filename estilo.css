@@ -367,7 +367,7 @@ margin-top: 0em;
        .elementos{
         width: 60em;
         height: 20em;
-        margin-top: -22em;
+        margin-top: -21.5em;
         margin-left: 30em;
     }
     .slider{
@@ -379,11 +379,11 @@ margin-top: 0em;
     }
     .menu{
 
-        font-size: 25px;
+        font-size: 30px;
         margin-left: 8em;
     }
     .white{
-        width: 100em;
+        width: 130em;
     }
     #sobre{
 
@@ -427,6 +427,9 @@ margin-top: 0em;
     .blanco{
 height: 400px;
         
+    }
+    .form{
+        width: 70em;
     }
 
   }
