@@ -464,12 +464,15 @@ width: 73em;
     }
 
     #c{
+        padding: 2em;
         font-size: 60px;
         margin-left: 30em;
     }
     #co{
+
+        padding: 2em;
         font-size: 60px;
-        margin-left: 30em;
+        margin-left: 10em;
     }
     #Titulo{
         font-size: 60px;
