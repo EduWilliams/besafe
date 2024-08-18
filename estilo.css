@@ -367,7 +367,7 @@ margin-top: 0em;
        .elementos{
         width: 60em;
         height: 20em;
-        margin-top: -23em;
+        margin-top: -22em;
         margin-left: 30em;
     }
     .slider{
@@ -379,18 +379,24 @@ margin-top: 0em;
     }
     .menu{
 
-        font-size: 20px;
-        margin-left: 5em;
+        font-size: 25px;
+        margin-left: 8em;
     }
     .white{
         width: 70em;
     }
     #sobre{
 
-        font-size: 30px;
+        font-size: 40px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
+    }
+    li{
+        font-size: 40px;
+    }
+    .tiserv{
+        font-size: 40px;
     }
     #empresas{
         width: 70em;
@@ -409,6 +415,10 @@ margin-top: 0em;
     }
     .pie{
         width: 90em;
+    }
+    .blanco{
+height: 400px;
+        
     }
 
   }
