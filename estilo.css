@@ -361,6 +361,8 @@ margin-top: 0em;
        .elementos{
         width: 60em;
         height: 20em;
+        margin-top: -20em;
+        margin-left: 60em;
     }
     .slider{
         width: 90em;
