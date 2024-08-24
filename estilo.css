@@ -14,8 +14,63 @@ body{
     height: 10em;
     box-shadow: 3px;
 }
+#imgc{
+    width: 100%;
+    height: 50em;
+   
+}
 .cont{
     display: flex;
+}
+.slider-box{
+
+    width: 150em;
+    height: 80em;
+    
+
+
+}
+.slider-box ul{
+    display: flex;
+    padding: 0;
+    width: 400%;
+    animation: slide 20s infinite alternate ease-in-out;
+}
+.slider-box li{
+    width: 100%;
+    list-style: none;
+    position: relative;
+    overflow: hidden;
+    margin-left: -6em;
+}
+#h{
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+   margin-left: 12em;
+    margin-top: -7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.slider-box img{
+    width: 100%;
+    margin-left: 0EM;
+}
+@keyframes slide{
+    0% {margin-left: 0;}
+    10%{margin-left: 0;}
+    20%{margin-left: -70%;}
+    30%{margin-left: -70%;}
+    40%{margin-left: -130%;}
+    50%{margin-left: -130%;}
+    60%{margin-left: -200%;}
+    70%{margin-left: -200%;}
+    80%{margin-left: -270%;}
+   90%{margin-left: -270%;}
+   95%{margin-left: -340%;}
+   100%{margin-left: -340%;}
+
 }
 
 .contenedor{
