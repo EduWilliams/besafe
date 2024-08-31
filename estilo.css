@@ -457,6 +457,51 @@ header{
     font-size: 20px;
 
 }
+#sobre3{
+    margin-left: 12em;
+}
+.serv{
+background-color: rgb(56, 70, 82); 
+width: 24em;
+height: 2em;
+color: white;
+
+border-style: solid 1px 1px;
+border-color: #fff;
+border-radius: 10px;
+margin-top: 1em;
+
+}
+.serv:hover{
+    font-size: 25px;
+    margin-left: 0em;
+}
+.serv a{
+
+    color: #fff;
+    margin-left: 2em;
+    margin-top: 3em;
+    text-decoration: none;
+    padding: 2em;
+}
+.serv a:hover{
+    color: rgb(218, 208, 208);
+}
+#ns{
+
+    margin-top: 5em;
+}
+#logo2{
+    margin-top: -23em;
+    margin-left: 40em;
+    height: 25em;
+    width: 35em;
+}
+#texto2{
+
+    background-color: blue;
+}
+
 #boton{
 
     background-color:  rgb(56, 70, 82);
