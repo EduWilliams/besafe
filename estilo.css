@@ -2,6 +2,7 @@
 body{
 
     background-color: white;
+    height: 100vh;
 }
 
 
@@ -491,12 +492,77 @@ margin-top: 1em;
 
     margin-top: 5em;
 }
-#logo2{
-    margin-top: -23em;
-    margin-left: 40em;
-    height: 25em;
-    width: 35em;
+
+.container{
+    width: 60em;
+    box-shadow: 7px 13px 37px rgb(0, 0, 0 ,.5);
+    align-items: center;
+
 }
+
+section{
+    margin-top: 5em;
+    background-color:rgb(56, 70, 82) ;
+    color: #fff;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 2em;
+
+
+ }
+section p, section ul{
+    overflow: hidden;
+    max-height: 0;
+    text-align: justify;
+
+    transition: all .120s ease-in-out;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: 20px;
+  
+
+}
+section a {
+
+    text-decoration: none;
+    display: block;
+    margin-left: 15em;
+    margin-top: 1em;
+    color: #fff;
+    font-size: 25px;
+    padding: 2em;
+  
+}
+section:target p,section:target ul{
+
+    max-height: 80em;
+    padding: 10px;
+    background-color: rgb(56, 70, 82);
+    margin-top: 5em;
+}
+#menu1{
+
+    
+    font-size: 20px;
+}
+
+   
+#menu2 ul{
+
+margin-right: 2em;
+margin-left: 2em;
+font-size: 20px;
+
+}
+#menu5 p{
+    margin-top: 0em;
+}
+
+  
+
+
+
+
 #texto2{
 
     background-color: blue;
